@@ -5,7 +5,7 @@ import App from "./pages/Home";
 
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
-
+git
 root.render(
   <StrictMode>
     <App />
